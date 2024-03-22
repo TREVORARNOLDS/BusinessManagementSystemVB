@@ -344,9 +344,9 @@ Partial Class Product_Add
         Me.Label5.Location = New System.Drawing.Point(297, 331)
         Me.Label5.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(76, 20)
+        Me.Label5.Size = New System.Drawing.Size(98, 20)
         Me.Label5.TabIndex = 49
-        Me.Label5.Text = "(e.g. 250)"
+        Me.Label5.Text = "(e.g. 250.00)"
         '
         'Label6
         '
@@ -377,9 +377,9 @@ Partial Class Product_Add
         Me.Label8.Location = New System.Drawing.Point(872, 251)
         Me.Label8.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(133, 20)
+        Me.Label8.Size = New System.Drawing.Size(114, 20)
         Me.Label8.TabIndex = 52
-        Me.Label8.Text = "(e.g. See sample)"
+        Me.Label8.Text = "(e.g. 300X300)"
         '
         'Label9
         '
